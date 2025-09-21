@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-student",
+      "description": "A focused student using a laptop in a well-lit, modern environment, symbolizing clarity and future-readiness.",
+      "imageUrl": "https://picsum.photos/seed/disha2/600/600",
+      "imageHint": "student future"
+    }
+  ]
+}
